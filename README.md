@@ -6,4 +6,4 @@ www.dio.me
 
 ## Sintaxe - Desafio
 
-Resolução de Desáfios propóstos pela DIO no bootcamp Santander 2024 - Backend com Java
+Resolução de Desafios da DIO no bootcamp Santander 2024 - Backend com Java
