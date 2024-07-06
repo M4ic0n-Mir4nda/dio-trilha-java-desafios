@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Basico/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/Java-Basico/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Basico/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/Java-Basico/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Basico/controle-fluxo-contador/controle-fluxo-contador.iml" filepath="$PROJECT_DIR$/Java-Basico/controle-fluxo-contador/controle-fluxo-contador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Basico/desafio-codigo-condicoes-loops-excecoes/desafio-codigo-condicoes-loops-excecoes.iml" filepath="$PROJECT_DIR$/Java-Basico/desafio-codigo-condicoes-loops-excecoes/desafio-codigo-condicoes-loops-excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-desafios.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-desafios.iml" />
+    </modules>
+  </component>
+</project>
