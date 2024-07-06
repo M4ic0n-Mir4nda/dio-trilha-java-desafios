@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Modelando-o-iPhone-com-Funcoes-de-Musicas-Chamadas-e-Internet.iml" filepath="$PROJECT_DIR$/.idea/Modelando-o-iPhone-com-Funcoes-de-Musicas-Chamadas-e-Internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-iphone.iml" filepath="$PROJECT_DIR$/desafio-iphone.iml" />
     </modules>
   </component>
 </project>
